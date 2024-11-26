@@ -1,0 +1,6 @@
+projectKey=22018950-LeeHanLin_FYP_e7e9f7fe-c8d9-4f06-be4b-0417807902c8
+serverUrl=http://127.0.0.1:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=22018950-LeeHanLin_FYP_e7e9f7fe-c8d9-4f06-be4b-0417807902c8
+ceTaskId=9ef15b65-5536-47f5-a153-e047eea9ef64
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=9ef15b65-5536-47f5-a153-e047eea9ef64
